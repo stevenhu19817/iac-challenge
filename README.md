@@ -37,7 +37,6 @@ This project implements a serverless API using AWS CDK, consisting of an API Gat
 1. Clone the repository:
    ```
    git clone https://github.com/stevenhu19817/iac-challenge.git
-   cd iac-challenge
    ```
 
 2. Create and activate a virtual environment:
